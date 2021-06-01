@@ -58,8 +58,10 @@
 * Improved accuracy by 6% by utilizing musical texture features and i-vectors extracted with ALIZE ASR (C++), Bash and MATLAB. <br>
 * Extracted i-vectors from speech audio using [ALIZE ASR](https://alize.univ-avignon.fr/)(similar to Kaldi, written in C++) and ran the feature extraction scripts using Bash.<br>
 * Extracted and experimented on i-vectors/MTF features using MATLAB/Octave.<br>
-* Technology/libraries: Python, TensorFlow/Keras, MATLAB, ALIZE, C++, Bash<br>
-* Paper accepted to Interspeech 2020: [Poetic Meter Classification Using i-Vector-MTF Fusion](https://www.isca-speech.org/archive/Interspeech_2020/abstracts/1794.html)<br>
+* Technology/libraries: Python, TensorFlow/Keras, MATLAB, ALIZE, C++, Bash <br>
+* Paper accepted to Interspeech 2020: [Poetic Meter Classification Using i-Vector-MTF Fusion](https://www.isca-speech.org/archive/Interspeech_2020/abstracts/1794.html) <br>
+
+
 -------
 
 
