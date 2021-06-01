@@ -125,7 +125,7 @@ I've done several projects over the years which dip into natural language proces
 <h3>Distributed Fault-Tolerant Book Library [Sep 2020 - Dec 2020]</h3>
 <i>Institution: Carnegie Mellon University</i><br>
 <i>Team Size: 3</i><br>
-* Developed a fault tolerant distributed system in Python with heartbeats, consensus, checkpointing, total ordering and logging to provide consistency for a miniature book lending library in Flask.<br>
+* Developed a fault tolerant distributed system with heartbeats, consensus, checkpointing, total ordering and logging to provide consistency for a miniature book lending library in Flask/Python.<br>
 * Developed a replication manager to track replica membership through communication between fault detectors, servers and handle clients.<br>
 * Technology: Python, Flask <br>
 
