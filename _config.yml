@@ -1,0 +1,25 @@
+# Dependencies
+# markdown:         redcarpet
+highlighter:      rouge
+
+# Permalinks
+permalink:        pretty
+# relative_permalinks: true
+
+# Setup
+title:            Aiswarya Vinod Kumar 
+description:      'passionate about learning.'
+url:              http://aiskumo.github.io
+baseurl:          /projects/
+
+author:
+  name:           'Aiswarya Vinod Kumar'
+  url:            http://aiskumo.github.io/projects/
+
+paginate:         5
+
+# Custom vars
+version:          2.1.0
+
+github:
+  repo:           https://github.com/projects
